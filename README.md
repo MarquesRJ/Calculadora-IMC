@@ -1,1 +1,3 @@
-# Calculadora de IMC construída em JavaScript
+# Calculadora de IMC
+
+Objeto de estudo da linguagem de Programação JavaScript
